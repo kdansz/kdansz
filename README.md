@@ -5,35 +5,25 @@
 
 #### <p align="center" > Me chamo Daniel e é um prazer tê-los aqui comigo.</p>
 
-<br>
 
-- ####  <p> Dev Full Stack em Processo de Formação</p>
+
 
 <div  align="center" style="margin-bottom:100px">
-<img width="49%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kdansz&theme=radical&mode=weekly" />
-<img width="50%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kdansz&show_icons=true&theme=radical&layout=compact" />
+<img width="52.9%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kdansz&theme=radical&mode=weekly" />
+<img width="45%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kdansz&show_icons=true&theme=radical&layout=compact" />
  </div>
 
 
 
 ## <h1 align="center" > Competências </h1>
 
-
 <div align="center"> 
  <img width="80px"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" >
  <img width="80px"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-</div>
-
-
-#### <p align="center" > Em Processo <p>
-
-<br>
-
-<div align="center">
- <img width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
- <img width="45px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
- <img width="45px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
- <img width="45px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+ <img width="58px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+ <img width="58px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
+ <img width="58px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+ <img width="58px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </div>
 
 <br>
